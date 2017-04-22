@@ -1,4 +1,7 @@
-# test coverage for  [simple-git (v1.70.0)](https://github.com/steveukx/git-js#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-simple-git.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-simple-git) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-simple-git.svg)](https://travis-ci.org/npmtest/node-npmtest-simple-git)
+# npmtest-simple-git
+
+#### basic test-coverage for  [simple-git (v1.70.0)](https://github.com/steveukx/git-js#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-simple-git.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-simple-git) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-simple-git.svg)](https://travis-ci.org/npmtest/node-npmtest-simple-git)
+
 #### Simple GIT interface for node.js
 
 [![NPM](https://nodei.co/npm/simple-git.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/simple-git)
